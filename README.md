@@ -40,11 +40,9 @@ I'm building my practical skills through beginner-friendly projects using Python
 
 ## 🤝 Open to Opportunities
 
-- Entry-level IT and technology roles
 - Junior Data Analyst roles
 - Reporting and MIS Analyst roles
 - Junior Business Intelligence roles
-- Graduate trainee positions and internships
 
 ## 📫 Let's Connect
 
